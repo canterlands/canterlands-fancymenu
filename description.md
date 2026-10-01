@@ -1,1 +1,1 @@
-Check out the horse market in Iron Hoof Isles! /warp horsemarket
+The Halloween Update is here! Use /warp Halloween to get started. 
